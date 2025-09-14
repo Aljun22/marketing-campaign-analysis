@@ -23,7 +23,7 @@ Page 1 — Executive Overview
 - ROI Trend Over Time (Line Chart)  
 
 📸 Screenshot: 
-[Executive Overview](screenshots/Executive_overview.png)
+[Executive Overview](images2/Executive_overview.png)
 
 
 
@@ -34,7 +34,7 @@ Page 2 — Campaign Performance Deep Dive**
 - Engagement vs Impressions (Line Chart)  
 
 📸 *Screenshot:*  
-![Campaign Deep Dive](screenshots/Campaign.png)
+![Campaign Deep Dive](images2/Campaign.png)
 
 
 
@@ -45,7 +45,7 @@ Page 3 — Audience & Market Breakdown**
 - Best Language by Audience (Dynamic Card)  
 
 📸 *Screenshot:*  
-![Audience Breakdown](screenshots/Audience_breakdown.png)
+![Audience Breakdown](images2/Audience_breakdown.png)
 
 
 📐 Important DAX Measures
