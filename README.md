@@ -22,8 +22,8 @@ Page 1 — Executive Overview
 - Campaign Performance by Segment (Treemap)  
 - ROI Trend Over Time (Line Chart)  
 
-📸 Screenshot: 
-[Executive Overview](Images2/Executive_overview.png)
+📸 Screenshot:*
+![Executive Overview](Images2/Executive_overview.png)
 
 
 
